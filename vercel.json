@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://nodehk.pixivpn.site"}
+      {"src": "/(.*)","dest": "http://185.242.232.173"}
     ]
 }
